@@ -38,13 +38,17 @@ To ensure data quality, two validity questions were included at the end of the e
 
 Chan, Mei Ling. Web-Based Usability Evaluation of Text-Resizing Methods and Users' Visual 
 	Fatigue on Online Reading Tasks. California State University, Long Beach, 2017.
+ 
 Parrish, Emma M., et al. "Remote ecological momentary testing of learning and memory in 
 	adults with serious mental illness." Schizophrenia bulletin 47.3 (2021): 740-750.
+ 
 Tiraset, Nanida, et al. "Comparison of visual acuity measurement using three methods: standard 
 	ETDRS chart, near chart and a smartphone-based eye chart application." Clinical 
 	Ophthalmology (2021): 859-869.
+ 
 Varadaraj, Varshini, et al. "Evaluation of tablet-based tests of visual acuity and contrast 
 	sensitivity in older adults." Ophthalmic epidemiology 28.4 (2021): 293-300.
+ 
 Whitaker, Sarah Kristine. Development and validation of the Reading Engagement Survey. Diss. 
 	University of Georgia, 2009.
 
